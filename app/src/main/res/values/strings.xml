@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pascolan</string>
+    <string name ="btn_text">आगे बड़े</string>
+    <string name ="header_text">अपनी पसंद की श्रेणियाँ चयन करे</string>
+</resources>
